@@ -22,7 +22,6 @@
             </div>
           </div>
         </div>
-  
         <!-- Tarjeta 2: Frontend vs Backend -->
         <div class="col-md-4">
           <div class="card mt-4 h-100">
@@ -42,7 +41,6 @@
             </div>
           </div>
         </div>
-  
         <!-- Tarjeta 3: Lenguajes de Programación Web -->
         <div class="col-md-4">
           <div class="card mt-4 h-100">
@@ -62,7 +60,6 @@
             </div>
           </div>
         </div>
-  
         <!-- Tarjeta 4: Frameworks y Bibliotecas -->
         <div class="col-md-4">
           <div class="card mt-4 h-100">
@@ -82,7 +79,6 @@
             </div>
           </div>
         </div>
-  
         <!-- Tarjeta 5: Desarrollo Responsive -->
         <div class="col-md-4">
           <div class="card mt-4 h-100">
@@ -102,7 +98,6 @@
             </div>
           </div>
         </div>
-  
         <!-- Tarjeta 6: Futuro de la Programación Web -->
         <div class="col-md-4">
           <div class="card mt-4 h-100">
@@ -126,4 +121,4 @@
     </div>
   </template>
 
-  ju
+  
