@@ -1,10 +1,10 @@
 <script setup>
-import Card from './components/Card.vue';
+import Principal from './components/Principal.vue';
 
 </script>
 
 <template>
- <Card/>
+ <Principal/>
 </template>
 
 <style scoped>
